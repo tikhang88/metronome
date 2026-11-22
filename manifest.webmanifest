@@ -1,0 +1,17 @@
+{
+  "name": "離線節拍器",
+  "short_name": "節拍器",
+  "description": "離線專業節拍器：拍號、Odd Time、細分、重拍、鼓聲及練習模式",
+  "lang": "zh-Hant-HK",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b0d10",
+  "theme_color": "#0b0d10",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
